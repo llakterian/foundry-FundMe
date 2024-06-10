@@ -1,0 +1,3 @@
+FundMeTest:testFundFailsWithoutEnoughETH() (gas: 120)
+FundMeTest:testFundUpdatesFundedDataStructure() (gas: 96181)
+FundMeTest:testPriceFeedVersionIsAccurate() (gas: 10653)
